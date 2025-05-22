@@ -1,0 +1,1 @@
+Hello Chị Quế nha em đã tự ôn lại dc Java Core cơ bản đến OOP em đã hiểu dc ( Hướng đối tượng là gì, Khởi tạo Contructor là gì, rồi Kế Thừa làm sao Chị Quế xem đoạn code em tự học lại có clean chưa ạ chị Quế có góp ý cho em chị Quế góp ý cho em nha em cảm ơn ạ
